@@ -1,5 +1,3 @@
 # chillihub.github.io
 your git storebase
-
-to slides
-https://swiperjs.com/demos
+[Add slides](https://swiperjs.com/demos) 
